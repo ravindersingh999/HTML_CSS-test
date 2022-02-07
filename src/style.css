@@ -1,0 +1,213 @@
+.container{
+    border: 2px solid;
+    width: 35%;
+    height: 500px;
+    border-radius: 10px;
+}
+#display{
+    border: 2px solid;
+    height: 96px;
+    background-color: rgb(45,45,54);
+}
+#display span{
+    font-size: 60px;
+    color: white;
+    float: right;
+}
+#buttons{
+    overflow: hidden;
+}
+#ac{
+    margin: auto;
+    border: 2px solid black;
+    text-align: center;
+    width: 24%;
+    height: 76px;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#but2{
+    text-align: center;
+    width: 24%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+
+}
+#percent{
+    text-align: center;
+    width: 24%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#divide{
+    text-align: center;
+    width: 24.5%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+    background-color: rgb(254,159,11);
+}
+#seven{
+    text-align: center;
+    width: 24%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#eight{
+    text-align: center;
+    width: 24%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#nine{
+    text-align: center;
+    width: 24%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#mul{
+    text-align: center;
+    width: 24.5%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+    background-color: rgb(254,159,11);
+}
+#four{
+    text-align: center;
+    width: 24%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#five{
+    text-align: center;
+    width: 24%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#six{
+    text-align: center;
+    width: 24%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#minus{
+    text-align: center;
+    width: 24.5%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(254,159,11);
+    color: white;
+    float: left;
+}
+#one{
+    text-align: center;
+    width: 24%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#two{
+    text-align: center;
+    width: 24%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#three{
+    text-align: center;
+    width: 24%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#plus{
+    text-align: center;
+    width: 24.5%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(254,159,11);
+    color: white;
+    float: left;
+}
+#zero{
+    text-align: center;
+    width: 47.2%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#dot{
+    text-align: center;
+    width: 25%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(66,66,74);
+    color: white;
+    float: left;
+}
+#equal{
+    text-align: center;
+    width: 25%;
+    height: 76px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(254,159,11);
+    color: white;
+    float: left;
+}
