@@ -14,6 +14,14 @@
     color: white;
     float: right;
 }
+.c1{
+    float: left;
+    border-radius: 50px;
+    width: 15px;
+    height: 15px;
+    background-color: rgb(129,129,134);
+    margin: 5px;
+}
 #buttons{
     overflow: hidden;
 }
